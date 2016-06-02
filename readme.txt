@@ -1,3 +1,8 @@
+0.
+good but annoying tutorial
+https://www.youtube.com/watch?v=strJwh0hLT8
+
+
 1. Insall Cygwin if running on Windows
 
 http://saphanatutorial.com/hadoop-installation-on-windows-7-using-cygwin/
